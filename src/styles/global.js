@@ -19,7 +19,7 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased !important;
   }
   body, input, button {
-    font-size: 14px 'Roboto', sans-serif;
+    font: 14px 'Roboto', sans-serif;
   }
   a{
     text-decoration:none;
